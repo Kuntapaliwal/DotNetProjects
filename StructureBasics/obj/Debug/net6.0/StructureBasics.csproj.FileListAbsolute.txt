@@ -1,0 +1,15 @@
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\StructureBasics.csproj.AssemblyReference.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\StructureBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\StructureBasics.AssemblyInfoInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\StructureBasics.AssemblyInfo.cs
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\StructureBasics.csproj.CoreCompileInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\bin\Debug\net6.0\StructureBasics.exe
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\bin\Debug\net6.0\StructureBasics.deps.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\bin\Debug\net6.0\StructureBasics.runtimeconfig.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\bin\Debug\net6.0\StructureBasics.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\bin\Debug\net6.0\StructureBasics.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\StructureBasics.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\refint\StructureBasics.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\StructureBasics.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\StructureBasics.genruntimeconfig.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\StructureBasics\obj\Debug\net6.0\ref\StructureBasics.dll

@@ -1,0 +1,15 @@
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\bin\Debug\net6.0\DelegatesPractice.exe
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\bin\Debug\net6.0\DelegatesPractice.deps.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\bin\Debug\net6.0\DelegatesPractice.runtimeconfig.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\bin\Debug\net6.0\DelegatesPractice.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\bin\Debug\net6.0\DelegatesPractice.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\DelegatesPractice.csproj.AssemblyReference.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\DelegatesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\DelegatesPractice.AssemblyInfoInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\DelegatesPractice.AssemblyInfo.cs
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\DelegatesPractice.csproj.CoreCompileInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\DelegatesPractice.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\refint\DelegatesPractice.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\DelegatesPractice.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\DelegatesPractice.genruntimeconfig.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DelegatesPractice\obj\Debug\net6.0\ref\DelegatesPractice.dll

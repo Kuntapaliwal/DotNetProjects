@@ -1,0 +1,15 @@
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\bin\Debug\net6.0\DemoCsProject.exe
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\bin\Debug\net6.0\DemoCsProject.deps.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\bin\Debug\net6.0\DemoCsProject.runtimeconfig.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\bin\Debug\net6.0\DemoCsProject.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\bin\Debug\net6.0\DemoCsProject.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\DemoCsProject.csproj.AssemblyReference.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\DemoCsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\DemoCsProject.AssemblyInfoInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\DemoCsProject.AssemblyInfo.cs
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\DemoCsProject.csproj.CoreCompileInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\DemoCsProject.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\refint\DemoCsProject.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\DemoCsProject.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\DemoCsProject.genruntimeconfig.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DemoCsProject\obj\Debug\net6.0\ref\DemoCsProject.dll

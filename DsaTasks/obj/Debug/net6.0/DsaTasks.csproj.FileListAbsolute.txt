@@ -1,0 +1,15 @@
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\DsaTasks.csproj.AssemblyReference.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\DsaTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\DsaTasks.AssemblyInfoInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\DsaTasks.AssemblyInfo.cs
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\DsaTasks.csproj.CoreCompileInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\bin\Debug\net6.0\DsaTasks.exe
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\bin\Debug\net6.0\DsaTasks.deps.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\bin\Debug\net6.0\DsaTasks.runtimeconfig.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\bin\Debug\net6.0\DsaTasks.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\bin\Debug\net6.0\DsaTasks.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\DsaTasks.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\refint\DsaTasks.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\DsaTasks.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\DsaTasks.genruntimeconfig.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\DsaTasks\obj\Debug\net6.0\ref\DsaTasks.dll

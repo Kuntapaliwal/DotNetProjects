@@ -1,0 +1,15 @@
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\ConsoleDotNetApllication.csproj.AssemblyReference.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\ConsoleDotNetApllication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\ConsoleDotNetApllication.AssemblyInfoInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\ConsoleDotNetApllication.AssemblyInfo.cs
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\ConsoleDotNetApllication.csproj.CoreCompileInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\bin\Debug\net6.0\ConsoleDotNetApllication.exe
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\bin\Debug\net6.0\ConsoleDotNetApllication.deps.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\bin\Debug\net6.0\ConsoleDotNetApllication.runtimeconfig.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\bin\Debug\net6.0\ConsoleDotNetApllication.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\bin\Debug\net6.0\ConsoleDotNetApllication.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\ConsoleDotNetApllication.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\refint\ConsoleDotNetApllication.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\ConsoleDotNetApllication.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\ConsoleDotNetApllication.genruntimeconfig.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\ConsoleDotNetApllication\ConsoleDotNetApllication\obj\Debug\net6.0\ref\ConsoleDotNetApllication.dll

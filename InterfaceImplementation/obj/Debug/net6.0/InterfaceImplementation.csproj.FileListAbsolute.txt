@@ -1,0 +1,15 @@
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\InterfaceImplementation.csproj.AssemblyReference.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\InterfaceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\InterfaceImplementation.AssemblyInfoInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\InterfaceImplementation.AssemblyInfo.cs
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\InterfaceImplementation.csproj.CoreCompileInputs.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\bin\Debug\net6.0\InterfaceImplementation.exe
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\bin\Debug\net6.0\InterfaceImplementation.deps.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\bin\Debug\net6.0\InterfaceImplementation.runtimeconfig.json
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\bin\Debug\net6.0\InterfaceImplementation.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\bin\Debug\net6.0\InterfaceImplementation.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\InterfaceImplementation.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\refint\InterfaceImplementation.dll
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\InterfaceImplementation.pdb
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\InterfaceImplementation.genruntimeconfig.cache
+C:\Users\A530566\OneDrive - H & M HENNES & MAURITZ GBC AB\Repos\DotNetProjects\InterfaceImplementation\obj\Debug\net6.0\ref\InterfaceImplementation.dll
